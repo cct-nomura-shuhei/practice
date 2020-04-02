@@ -1,0 +1,5 @@
+@echo off
+git config --local user.email "shuhei.nomura@cct-inc.co.jp"
+git config --local user.name "cct-nomura-shuhei"
+git config --local user.signkey "92D06F55D4A6B9F59C8ED51B4A072C673FCC0785"
+
